@@ -12,7 +12,7 @@ namespace Exercicios_aula
 
             int dadoCapturado = Convert.ToInt32(Console.ReadLine());
 
-            int calcularAntecessor = dadoCapturado - 1 ;
+            double calcularAntecessor = dadoCapturado - 1 ;
 
             
             Console.WriteLine("O antecessor é : "  + calcularAntecessor );
