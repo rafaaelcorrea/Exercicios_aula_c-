@@ -14,7 +14,7 @@ namespace Exercicios_aula
             int  altura = Convert.ToInt32(Console.ReadLine());
     
 
-            int calcularArea =  base1 * altura;
+            double calcularArea =  base1 * altura;
 
 
             
