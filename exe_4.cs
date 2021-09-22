@@ -18,7 +18,7 @@ namespace Exercicios_aula
             int   diaNascimento = Convert.ToInt32(Console.ReadLine());
     
 
-            int idadeTotalDias =  anoNascimento * 365 + mesNascimento * 30 + diaNascimento;
+            double idadeTotalDias =  anoNascimento * 365 + mesNascimento * 30 + diaNascimento;
 
 
             
