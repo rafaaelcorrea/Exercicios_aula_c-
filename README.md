@@ -1,2 +1,2 @@
 # Exercicios_aula_c-
-Exercícios da aula C# do Prof. Paulo
+Exercícios da aula de C# do Prof. Paulo
